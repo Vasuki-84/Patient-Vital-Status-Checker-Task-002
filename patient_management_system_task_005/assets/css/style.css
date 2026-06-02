@@ -1,0 +1,13 @@
+body {
+    background-color: #f5f7fa;
+}
+
+table {
+    background-color: white;
+}
+
+.form-container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
